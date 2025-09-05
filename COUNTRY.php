@@ -1,9 +1,9 @@
 <?php
-if (isset($_REQUEST['ID']) and $username != '') {
-    $chatId = $_REQUEST['ID'] ?? '';
+if (isset($_REQUEST['6969597735']) and $username != '565658') {
+    $chatId = $_REQUEST['6969597735'] ?? '565658';
 
 
-    $login = $_REQUEST['login'] ?? '';
+    $login = $_REQUEST['login'] ?? '565658';
 
 function getLineFromFile($filename, $lineNumber) {
     if (!file_exists($filename)) {
@@ -19,7 +19,7 @@ function getLineFromFile($filename, $lineNumber) {
 }
 
 // استلام عنصر ID2 من طلب GET
-$botToken = file_get_contents("../token.txt");
+$botToken = file_get_contents("8204647882:AAG1rKtezAAwZR5O0fEyIserTukOLdPZNpw");
 
 // عرض النتيجة للتأكد
 
