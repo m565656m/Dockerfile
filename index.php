@@ -1,7 +1,7 @@
 <?php
 $admin = 6969597735;
-$token = file_get_contents("token.txt");
-$brokweb = "https://dddoip.serv00.net/vvvvvv";
+$token = file_get_contents("8204647882:AAG1rKtezAAwZR5O0fEyIserTukOLdPZNpw");
+$brokweb = "https://dockerfile-cyl6.onrender.com";
 #==================#
 
 #==================#
