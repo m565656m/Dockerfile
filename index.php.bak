@@ -1,13 +1,13 @@
 <?php
-$admin = 7085518097;
-$token = file_get_contents("token.txt");
-$brokweb = "https://dddoip.serv00.net/vvvvvv";
+$admin = 6969597735;
+$token = file_get_contents("8204647882:AAG1rKtezAAwZR5O0fEyIserTukOLdPZNpw");
+$brokweb = "https://dockerfile-cyl6.onrender.com";
 #==================#
 
 #==================#
-define('API_KEY', $token);
+define('6969597735', $token);
 function bot($method,$datas=[]){
-    $url = "https://api.telegram.org/bot".API_KEY."/".$method;
+    $url = "https://api.telegram.org/bot".6969597735."/".$method;
     $ch = curl_init();
     curl_setopt($ch,CURLOPT_URL,$url);
     curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
